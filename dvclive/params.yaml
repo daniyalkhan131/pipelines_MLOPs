@@ -1,3 +1,1 @@
-train:
-  epochs: 10
-  n_estimators: 100
+epochs: 10
