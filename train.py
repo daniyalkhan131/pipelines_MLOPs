@@ -8,7 +8,7 @@ with Live(save_dvc_exp=True) as live:
 
     #we can change params.yaml file in dvclive to control things, anf for manipulating .yaml use uaml lib
 
-    train_params=yaml.safe_load(open('/Users/daniyalkhan/Documents/AI/Projects/pipelines/dvclive/params.yaml'))['train']
+    train_params=yaml.safe_load(open('params.yaml'))['train']
     epochs=train_params['epochs ']
     live.log_param ("epochs", epochs)
     for epoch in range(epochs):
