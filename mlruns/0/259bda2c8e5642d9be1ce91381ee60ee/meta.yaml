@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/daniyalkhan/Documents/AI/Projects/pipelines/mlruns/0/259bda2c8e5642d9be1ce91381ee60ee/artifacts
+end_time: 1704028861374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 259bda2c8e5642d9be1ce91381ee60ee
+run_name: serious-boar-80
+run_uuid: 259bda2c8e5642d9be1ce91381ee60ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704028861072
+status: 3
+tags: []
+user_id: daniyalkhan
